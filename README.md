@@ -12,7 +12,6 @@ The Project is created using below tech stack:
 Prerequisites:
 
 - Microsoft Visual Studio
-- SQL Database Server
 - Please install Node.js for running the project. 
   https://nodejs.org/en/download/
 
