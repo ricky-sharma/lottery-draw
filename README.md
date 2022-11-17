@@ -16,7 +16,7 @@ Prerequisites:
 - Please install Node.js for running the project. 
   https://nodejs.org/en/download/
 
-- To run the project, please open the project in Visual studio and click Run in Visual studio or open project in Visual Studio Code and enter below command in terminal window 
+- To run the project, please open the project in Visual studio and click Run in Visual studio or open "\lotterydraw\ClientApp" folder of the project in Visual Studio Code and enter below command in terminal window
 
   - npm start
 
