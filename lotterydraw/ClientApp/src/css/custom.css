@@ -1,0 +1,63 @@
+/* Provide sufficient contrast against white background */
+a {
+    color: #fff !important;
+}
+
+code {
+    color: #E01A76 !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+
+.css-1e2bxag-MuiDataGrid-root .MuiDataGrid-columnHeader:focus, .css-1e2bxag-MuiDataGrid-root .MuiDataGrid-cell:focus {
+    outline: 0px !important;
+}
+
+.css-d9c359-MuiButtonBase-root-MuiToggleButton-root.Mui-selected {
+    background-color: rgba(25, 118, 210, 0.35);
+    font-weight: 600;
+}
+
+.css-1e2bxag-MuiDataGrid-root .MuiDataGrid-columnHeader:focus-within, .css-1e2bxag-MuiDataGrid-root .MuiDataGrid-cell:focus-within {
+    outline: 0px !important;
+}
+
+.MuiDataGrid-columnHeader.MuiDataGrid-columnHeader--sortable {
+    padding: 0 !important;
+}
+
+.css-1jbbcbn-MuiDataGrid-columnHeaderTitle {
+    font-weight: 600 !important;
+}
+
+.MuiDataGrid-actionsCell {
+    color: cadetblue;
+}
+
+.MuiTablePagination-displayedRows.css-levciy-MuiTablePagination-displayedRows {
+    margin: 0 !important;
+}
+
+.MuiDataGrid-cell, .MuiDataGrid-columnHeaderTitle {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.align-Item {
+    float: right;
+    height: 25px;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: none;
+    min-width: 80px;
+    border-radius: 6px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
