@@ -18,7 +18,7 @@ Prerequisites:
 
 - To run the project, please open the project in Visual studio and click Run in Visual studio or open project in Visual Studio Code and enter below command in terminal window 
 
-npm start
+  - npm start
 
 - On the first run, it will take some time for the project to restore nuget and npm dependencies
 
