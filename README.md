@@ -5,8 +5,6 @@
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![GitHub forks](https://img.shields.io/github/forks/ricky-sharma/lottery-draw?style=social)](https://github.com/ricky-sharma/lottery-draw/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/ricky-sharma/lottery-draw?style=social)](https://github.com/ricky-sharma/lottery-draw/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/ricky-sharma/lottery-draw)](https://github.com/ricky-sharma/lottery-draw/issues)
-[![GitHub downloads](https://img.shields.io/github/downloads/ricky-sharma/lottery-draw/total)](https://github.com/ricky-sharma/lottery-draw/releases)
 
 This project is built using **React.js** for the frontend and **.NET 6.0** for the backend, providing a seamless and interactive user experience.
 
