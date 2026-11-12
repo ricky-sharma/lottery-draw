@@ -1,4 +1,3 @@
----
 
 # 🎰 Lottery Draw
 
